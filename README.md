@@ -1,2 +1,5 @@
 # hello-world
-Just a test repo
+
+Hi World!
+
+Just a test repo to figure out how this Git thing works :)
